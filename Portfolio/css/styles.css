@@ -1,0 +1,26 @@
+h1{
+  color: pink;
+}
+body {
+  background-image: url("../bg/back.jpg");
+  background-size: cover;
+  font-size: 110%;
+}
+h2{
+  background-image: url("../bg/pic2.jpeg");
+  background-size: cover;
+  color:white;
+  height:14px
+  width: 18px
+  font-size: 110
+}
+p{
+  font-size: 34;
+  color:pink
+}
+ls{
+  color:  white;
+  background-image: url("../bg/pic2.jpeg");
+  background-size: cover;
+  font-size:  110%;
+}
